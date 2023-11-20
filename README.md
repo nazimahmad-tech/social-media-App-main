@@ -1,1 +1,1 @@
-# social-media-App-main
+# social-media-App
